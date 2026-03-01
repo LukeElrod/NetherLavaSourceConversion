@@ -1,0 +1,13 @@
+{
+  "itemGroup.netherlavasourceconversion": "Example Mod Tab",
+  "block.netherlavasourceconversion.example_block": "Example Block",
+  "item.netherlavasourceconversion.example_item": "Example Item",
+
+  "netherlavasourceconversion.configuration.title": "Nether Lava Source Conversion Configs",
+  "netherlavasourceconversion.configuration.section.netherlavasourceconversion.common.toml": "Nether Lava Source Conversion Configs",
+  "netherlavasourceconversion.configuration.section.netherlavasourceconversion.common.toml.title": "Nether Lava Source Conversion Configs",
+  "netherlavasourceconversion.configuration.items": "Item List",
+  "netherlavasourceconversion.configuration.logDirtBlock": "Log Dirt Block",
+  "netherlavasourceconversion.configuration.magicNumberIntroduction": "Magic Number Text",
+  "netherlavasourceconversion.configuration.magicNumber": "Magic Number"
+}
